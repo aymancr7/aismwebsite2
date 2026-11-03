@@ -1,3 +1,3 @@
-# aismwebsite2
+# aimswebsite2
 demo for school
 
